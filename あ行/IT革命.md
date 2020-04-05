@@ -1,8 +1,5 @@
 Link: [IT革命](https://www.shiruporuto.jp/public/data/vocabulary/yogo/a/it_kakumei.html)
 
-<font color=Green>我是绿色</font>
-<font color=Blue>我是蓝色</font>
-
 翻译:
 > **IT革命とは**
 >> *zhongwen*
