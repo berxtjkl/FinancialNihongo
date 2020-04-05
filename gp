@@ -1,3 +1,3 @@
 git add .
-git commit -m "add gp file, one click git push."
+git commit -m "update part IT革命."
 git push
