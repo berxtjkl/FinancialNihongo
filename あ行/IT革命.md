@@ -2,7 +2,7 @@ Link: [IT革命](https://www.shiruporuto.jp/public/data/vocabulary/yogo/a/it_kak
 
 翻译:
 > **IT革命とは**
->> *zhongwen*
+>> *zhongwen11gi*
 
 > **ITはInformation Technology の略で、情報技術を指す。**
 >> *zhongwen*
