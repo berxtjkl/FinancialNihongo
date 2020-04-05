@@ -1,4 +1,4 @@
-[IT革命]: https://www.shiruporuto.jp/public/data/vocabulary/yogo/a/it_kakumei.html  ()
+[IT革命](https://www.shiruporuto.jp/public/data/vocabulary/yogo/a/it_kakumei.html)
 
 IT革命とは
 
