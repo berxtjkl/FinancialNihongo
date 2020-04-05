@@ -1,7 +1,10 @@
 Link: [IT革命](https://www.shiruporuto.jp/public/data/vocabulary/yogo/a/it_kakumei.html)
 
+<font color=Green>我是绿色</font>
+<font color=Blue>我是蓝色</font>
+
 翻译:
-> IT革命とは
+> <font color=Green>IT革命とは</font>
 >> zhongwen 
 
 > ITはInformation Technology の略で、情報技術を指す。
