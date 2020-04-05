@@ -1,3 +1,3 @@
 git add .
-git commit -m "update part IT革命."
+git commit -m "IT革命首次翻译完成."
 git push
