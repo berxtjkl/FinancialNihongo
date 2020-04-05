@@ -1,3 +1,3 @@
 git add .
-git commit -m "update 悪質商法."
+git commit -m "悪質商法とは finished."
 git push
