@@ -1,4 +1,4 @@
-Link: [意思決定（decision making）](https://www.shiruporuto.jp/public/data/vocabulary/yogo/a/akushitsu_shoho.html)
+Link: [意思決定（decision making）](https://www.shiruporuto.jp/public/data/vocabulary/yogo/a/ishikettei.html)
 
 翻译:
 > **意思決定（decision making）とは**
