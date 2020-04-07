@@ -1,3 +1,3 @@
 git add .
-git commit -m "インサイダー取引 updated translate."
+git commit -m "template.md model added."
 git push
