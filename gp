@@ -1,3 +1,3 @@
 git add .
-git commit -m "インサイダー取引 fixed wrong character."
+git commit -m "ウェブマネー finished translate."
 git push
