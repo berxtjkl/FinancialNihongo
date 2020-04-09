@@ -1,3 +1,3 @@
 git add .
-git commit -m "ウェブマネー finished translate."
+git commit -m "エコファンド finished translate."
 git push
