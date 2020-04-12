@@ -1,3 +1,3 @@
 git add .
-git commit -m "エンゲル係数 finished translate."
+git commit -m "円高・円安 finished translate."
 git push
