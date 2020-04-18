@@ -1,3 +1,3 @@
 git add .
-git commit -m "介護保険 fixed partly."
+git commit -m "改正貸金業法 finished translate."
 git push
