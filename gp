@@ -1,3 +1,3 @@
 git add .
-git commit -m "株価（share price ; stock price） finished translate."
+git commit -m "株式 (stock ; share) finished translate."
 git push
