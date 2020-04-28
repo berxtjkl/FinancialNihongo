@@ -1,3 +1,3 @@
 git add .
-git commit -m "割賦販売 finished translate."
+git commit -m "株価（share price ; stock price） finished translate."
 git push
