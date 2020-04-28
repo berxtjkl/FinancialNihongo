@@ -1,3 +1,3 @@
 git add .
-git commit -m "可処分所得 finished translate."
+git commit -m "割賦販売 finished translate."
 git push
