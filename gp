@@ -1,3 +1,3 @@
 git add .
-git commit -m "改正貸金業法 finished translate."
+git commit -m "整理a行数据到ka行, 因为一开始分类错了."
 git push
