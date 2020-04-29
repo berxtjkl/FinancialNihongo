@@ -1,3 +1,3 @@
 git add .
-git commit -m "株主代表訴訟 finished translate."
-git push
+git commit -m "株式 (stock ; share) formated·."
+git pus
