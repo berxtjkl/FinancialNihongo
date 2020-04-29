@@ -1,3 +1,3 @@
 git add .
-git commit -m "株主代表訴訟 formated."
+git commit -m "外貨預金 formated."
 git push
