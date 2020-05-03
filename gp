@@ -1,3 +1,3 @@
 git add .
-git commit -m "元本（元本保証・元本割れ） finished translate."
+git commit -m "機会費用 (opportunity cost) finished translate."
 git push
