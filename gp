@@ -1,3 +1,3 @@
 git add .
-git commit -m "キャッシング（cash advance）finished translate."
+git commit -m "キャピタル・ゲイン（capital gain） finished translate."
 git push
