@@ -1,3 +1,3 @@
 git add .
-git commit -m "金融政策 finished translate."
+git commit -m "金融庁 finished translate."
 git push
