@@ -1,3 +1,3 @@
 git add .
-git commit -m "金利 finished translate."
+git commit -m "クーリング・オフ（cooling - off） finished translate."
 git push
