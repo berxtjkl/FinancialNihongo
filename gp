@@ -1,3 +1,3 @@
 git add .
-git commit -m "クーリング・オフ（cooling - off） finished translate."
+git commit -m "クレジットカード（credit card） finished translate."
 git push
