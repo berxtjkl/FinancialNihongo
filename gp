@@ -1,3 +1,3 @@
 git add .
-git commit -m "国民生活センター fix translate."
+git commit -m "国民年金 finish translate."
 git push
