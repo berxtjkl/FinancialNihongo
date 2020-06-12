@@ -1,3 +1,3 @@
 git add .
-git commit -m "コーポレートガバナンス finish translate."
+git commit -m "コンシューマリズム finish translate."
 git push
