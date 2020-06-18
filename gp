@@ -1,3 +1,3 @@
 git add .
-git commit -m "コンシューマリズム finish translate."
+git commit -m "サービス finish translate."
 git push
