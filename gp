@@ -1,3 +1,3 @@
 git add .
-git commit -m "社債（corporate bonds） finish translate."
+git commit -m "住宅ローン finish translate."
 git push
