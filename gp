@@ -1,3 +1,3 @@
 git add .
-git commit -m "サブプライムローン finish translate."
+git commit -m "自己責任 finish translate."
 git push
