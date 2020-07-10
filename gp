@@ -1,3 +1,3 @@
 git add .
-git commit -m "住宅ローン finish translate."
+git commit -m "需要・供給 finish translate."
 git push
