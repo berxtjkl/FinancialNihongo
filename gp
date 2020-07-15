@@ -1,3 +1,3 @@
 git add .
-git commit -m "奨学金 finish translate."
+git commit -m "証券会社 finish translate."
 git push
