@@ -1,3 +1,3 @@
 git add .
-git commit -m "消費支出・非消費支出 finish translate."
+git commit -m "消費者運動 finish translate."
 git push
